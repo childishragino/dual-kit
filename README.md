@@ -164,10 +164,6 @@ flowchart TB
     Answer -. "1 small LLM call<br/>(or template)" .-> LLMAnswer["Claude"]
 ```
 
-*(GitHub renders this diagram automatically. If you're reading this
-somewhere that doesn't, `scripts/precompute_embeddings.py` and the `backend/ai/`
-docstrings walk through the same flow in prose.)*
-
 ---
 
 ## Feature 1 — Scout Talk (structured output)
