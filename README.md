@@ -8,7 +8,7 @@ switch and go the other way: pick a country and see which clubs its starters and
 bench players actually turn out for week to week.
 
 It started as a small, specific problem: my boyfriend supports Manchester City and
-watches World Cup matches separately from me. He'll message "watch this one, it's
+we have to watch the World Cup matches separated due to work. He'll message "watch this one, it's
 got three of my players in it" — this is the tool that answers that question without
 him having to tell me. It grew into a demonstration of three ways to use an LLM
 *pragmatically* in a small app: structured output instead of prose-parsing, local
